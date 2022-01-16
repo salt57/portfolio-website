@@ -1,0 +1,35 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "prepare": "husky install",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "8.7.0",
+    "eslint-config-next": "12.0.8",
+    "husky": "^7.0.4",
+    "nodemon": "^2.0.15"
+  },
+  "name": "portfolio-website",
+  "description": "This is a starter template for [Learn Next.js](https://nextjs.org/learn).",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salt57/portfolio-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salt57/portfolio-website/issues"
+  },
+  "homepage": "https://github.com/salt57/portfolio-website#readme"
+}
